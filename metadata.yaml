@@ -1,10 +1,16 @@
 _repo: People-of-Africa_6693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: How, Edith A.
     gutenberg_agent_id: '2158'
     url: http://www.gutenberg.org/2009/agents/2158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6693#People-of-Africa
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
